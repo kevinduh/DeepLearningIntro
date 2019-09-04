@@ -1,0 +1,206 @@
+\documentclass{beamer}
+%\documentclass[handout]{beamer}
+
+
+%%%%%%%%%%%%%
+%% THEMES w/o navigaton
+%\usetheme{default}
+%\usetheme{Madrid}
+%\usetheme{Pittsburgh}
+%\usetheme{Boadilla}
+
+%%%%%%%%%%%%%
+%% THEMES w/ tree navigation
+%\usetheme{Antibes}
+
+%%%%%%%%%%%%%
+%% THEMES w/ TOC sidebar
+%\usetheme{Berkeley}
+%\usetheme{PaloAlto}
+
+
+%%%%%%%%%%%%%
+%% THEMES w/ miniframe navigation
+%\usetheme{Berlin}
+%\usetheme{Darmstadt}
+%\usetheme{Ilmenau}
+%\usetheme{Singapore}
+%\usetheme{Frankfurt}
+
+%%%%%%%%%%%%%
+%% THEMES w/ section/subsection titles
+%\usetheme{Copenhagen}
+%\usetheme{Warsaw}
+
+
+%%%%%%%%%%%%%%%%%
+%% CUSTOMIZED THEME %%%%
+\usetheme{Marburg}
+
+\makeatletter
+  \setbeamertemplate{sidebar \beamer@sidebarside}
+  {
+    \beamer@tempdim=\beamer@sidebarwidth%
+    \advance\beamer@tempdim by -6pt%
+    \vskip4em%
+    \insertverticalnavigation{\beamer@sidebarwidth}%
+    \vfill
+    \ifx\beamer@sidebarside\beamer@lefttext%
+    \else%
+      \usebeamercolor{normal text}%
+      \llap{\usebeamertemplate***{navigation symbols}\hskip0.1cm}%
+      \vskip2pt%
+    \fi%
+  }%
+
+  \ifx\beamer@sidebarside\beamer@lefttext%
+    \defbeamertemplate*{sidebar right}{sidebar theme}
+    {%
+      \vfill%
+      \llap{\usebeamertemplate***{navigation symbols}\hskip0.1cm}%
+      \vskip2pt}
+  \fi
+
+\setbeamertemplate{section in sidebar}%{sidebar theme}
+{%
+  \vbox{%
+    \vskip1ex%
+    \beamer@sidebarformat{3pt}{section in sidebar}{\insertsectionheadnumber
+~\insertsectionhead}%
+  }%
+}
+\setbeamertemplate{section in sidebar shaded}%{sidebar theme}
+{%
+  \vbox{%
+    \vskip1ex%
+    \beamer@sidebarformat{3pt}{section in sidebar shaded}{\insertsectionheadnumber
+~\insertsectionhead}%
+  }%
+}
+\makeatother
+
+
+
+%% COLOR THEMES %%
+%\usecolortheme{dove}
+%\usecolortheme{beaver}
+
+
+%%%%%%%%%%%%%%%
+
+\usepackage{multirow}
+
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+
+\DeclareMathOperator*{\argmax}{arg\,max}
+\DeclareMathOperator*{\argmin}{arg\,min}
+%\DeclareMathOperator*{\Em}{E_w(x=x^{(m)},h)}
+\DeclareMathOperator*{\Em}{E_w(x^{(m)},h)}
+\DeclareMathOperator*{\E}{E_w(x,h)}
+\DeclareMathOperator*{\Es}{E(x,h)}
+%\DeclareMathOperator*{\nw}{\nabla_{w_{ij}}}
+\DeclareMathOperator*{\nw}{\partial_{w_{ij}}}
+\newcommand{\btheta}{\boldsymbol \theta }
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+
+
+%\setbeamertemplate{footline}{\hfill\insertframenumber/\inserttotalframenumber}
+
+\setbeamertemplate{footline}[text line]{%
+  \parbox{\linewidth}{\hfill (p.\insertframenumber})}
+\setbeamertemplate{navigation symbols}{}
+
+
+\setbeamertemplate{bibliography item}{}
+
+
+\makeatletter
+\def\blfootnote{\xdef\@thefnmark{}\@footnotetext}
+\makeatother
+
+\makeatother
+
+
+\title{Deep Learning Tutorial}
+\author{Kevin Duh}
+\institute{Nara Institute of Science \& Technology / Johns Hopkins HLTCOE}
+\date{Oct 18, 2015}
+
+
+\AtBeginSubsection[]
+{
+  \begin{frame}
+    \small{\frametitle{Outline}
+    \tableofcontents[currentsection,currentsubsection]
+	}
+  \end{frame}
+}
+
+\begin{document}
+
+\begin{frame}
+\titlepage
+\end{frame}
+
+
+%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{What is Deep Learning?}
+A family of methods that uses deep architectures to learn high-level feature representations
+\centerline{\includegraphics[scale=0.27]{figs/deep_vs_conventional_learning}}
+\end{frame}
+
+%%%%%%%%%%%%%
+\begin{frame}
+\frametitle{What got me excited in Deep Learning}
+Automatically trained features make sense! \cite{lee09convolutional}\\[0.2cm]
+Input: Images (raw pixels)\\
+$\rightarrow$ Output: Features of Edges, Body Parts, Full Faces
+
+\centerline{\includegraphics[scale=0.35]{figs/lee09example}}
+\end{frame}
+
+
+%%% 1. BASICS
+\input{151015-tutorial-part1basics}
+
+%%% 2. BUILDING BLOCKS
+\input{151015-tutorial-part2buildingblocks}
+
+%%% 3. TRICKS
+\input{151015-tutorial-part3tricks}
+
+%%% 4. NEW STUFF
+\input{151015-tutorial-part4newstuff}
+
+\begin{frame}
+\small{
+\frametitle{Review: what we covered}
+\tableofcontents
+}
+\end{frame}
+
+\begin{frame}
+\frametitle{Roadmap next}
+\be
+\item We've covered general background in deep learning
+\item {\color{red} Dr. Tsuyoshi Okita}: Deep learning / Neural Nets in NLP
+\item {\color{red} Prof. Hermann Ney}: Neural Nets for MT
+\item {\color{red} Prof. Kyunghyun Cho}: Neural Nets as MT
+\ee
+\end{frame}
+%%%%%%%%%%%%%%%%%%%%
+\begin{frame}[allowframebreaks]
+%\frametitle{References}
+\begin{tiny}
+References:
+\bibliographystyle{apalike}
+\bibliography{mybib}
+\end{tiny}
+\end{frame}
+
+\end{document}
