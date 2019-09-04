@@ -1,0 +1,114 @@
+\begin{thebibliography}{}
+
+\bibitem[Bahdanau et~al., 2014]{bahdanau14translate}
+Bahdanau, D., Cho, K., and Bengio, Y. (2014).
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em CoRR}, abs/1409.0473.
+
+\bibitem[Bengio et~al., 2003]{bengio03neurallm}
+Bengio, Y., Ducharme, R., Vincent, P., and Jauvin, C. (2003).
+\newblock A neural probabilistic language model.
+\newblock {\em JMLR}.
+
+\bibitem[Bollacker et~al., 2008]{bollacker08freebase}
+Bollacker, K., Evans, C., Paritosh, P., Sturge, T., and Taylor, J. (2008).
+\newblock Freebase: A collaboratively created graph database for structuring
+  human knowledge.
+\newblock In {\em Proceedings of the 2008 ACM SIGMOD International Conference
+  on Management of Data}, SIGMOD '08, pages 1247--1250, New York, NY, USA. ACM.
+
+\bibitem[Chen et~al., 2013]{chen13embedding}
+Chen, Y., Perozzi, B., Al-Rfou, R., and Skiena, S. (2013).
+\newblock The expressive power of word embeddings.
+\newblock In {\em ICML 2013 Workshop on Deep Learning for Audio, Speech, and
+  Language Processing}.
+
+\bibitem[Collobert et~al., 2011]{collobert11scratch}
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., and Kuksa,
+  P. (2011).
+\newblock Natural language processing (almost) from scratch.
+\newblock {\em Journal of Machine Learning Research}, 12:2493--2537.
+
+\bibitem[Faruqui et~al., 2014]{faruqui14retrofit}
+Faruqui, M., Dodge, J., Jauhar, S.~K., Dyer, C., Hovy, E.~H., and Smith, N.~A.
+  (2014).
+\newblock Retrofitting word vectors to semantic lexicons.
+\newblock {\em CoRR}, abs/1411.4166.
+
+\bibitem[Faruqui and Dyer, 2014]{faruqui14representation}
+Faruqui, M. and Dyer, C. (2014).
+\newblock Improving vector space word representations using multilingual
+  correlation.
+\newblock In {\em Proceedings of the 14th Conference of the European Chapter of
+  the Association for Computational Linguistics}, pages 462--471, Gothenburg,
+  Sweden. Association for Computational Linguistics.
+
+\bibitem[Fried and Duh, 2014]{fried15iclr}
+Fried, D. and Duh, K. (2014).
+\newblock Incorporating both distributional and relational semantics in word
+  representations.
+\newblock {\em CoRR}, abs/1412.5836.
+
+\bibitem[Gers et~al., 2002]{gers02peephole}
+Gers, F.~A., Schraudolph, N.~N., and Schmidhuber, J. (2002).
+\newblock Learning precise timing with {LSTM} recurrent networks.
+\newblock {\em JMLR}.
+
+\bibitem[Gouws et~al., 2015]{gouws15representation}
+Gouws, S., Bengio, Y., and Corrado, G. (2015).
+\newblock Bilbowa: Fast bilingual distributed representations without word
+  alignments.
+\newblock In {\em Proceedings of the 32nd International Conference on Machine
+  Learning}.
+
+\bibitem[Kalchbrenner and Blunsom, 2013]{kalchbrenner13}
+Kalchbrenner, N. and Blunsom, P. (2013).
+\newblock Recurrent continuous translation models.
+\newblock In {\em Proceedings of the 2013 Conference on Empirical Methods in
+  Natural Language Processing}, pages 1700--1709, Seattle, Washington, USA.
+  Association for Computational Linguistics.
+
+\bibitem[LeCun et~al., 1998]{lecun98conv}
+LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proc}, 86(11):2278--2324.
+
+\bibitem[Lee et~al., 2009]{lee09convolutional}
+Lee, H., Grosse, R., Ranganath, R., and Ng, A. (2009).
+\newblock Convolutional deep belief networks for scalable unsupervised learning
+  of hierarchical representations.
+\newblock In {\em ICML}.
+
+\bibitem[Mikolov et~al., 2010]{mikolov10rnnlm}
+Mikolov, T., Karafiat, S., Burget, L., \v{C}ernock\'{y}, J., and Khudanpur, S.
+  (2010).
+\newblock Recurrent neural network based language models.
+\newblock In {\em Proceedings of the 11th Annual Conference of the
+  International Speech Communication Association (INTERSPEECH 2010)}.
+
+\bibitem[Mikolov et~al., 2013]{mikolov13distributed}
+Mikolov, T., Sutskever, I., Chen, K., Corrado, G., and Dean, J. (2013).
+\newblock Distributed representations of words and phrases and their
+  compositionality.
+\newblock In {\em NIPS}.
+
+\bibitem[Miller, 1995]{miller95wordnet}
+Miller, G.~A. (1995).
+\newblock {WordNet}: A lexical database for {English}.
+\newblock {\em Communications of the ACM}, 38(11):39--41.
+
+\bibitem[Rastogi et~al., 2015]{rastogi15multiview}
+Rastogi, P., Van~Durme, B., and Arora, R. (2015).
+\newblock Multiview lsa: Representation learning via generalized cca.
+\newblock In {\em Proceedings of the 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 556--566, Denver, Colorado. Association for
+  Computational Linguistics.
+
+\bibitem[Sutskever et~al., 2014]{sutskevar14sequence}
+Sutskever, I., Vinyals, O., and Le, Q. (2014).
+\newblock Sequence to sequence learning with neural networks.
+\newblock In {\em NIPS}.
+
+\end{thebibliography}

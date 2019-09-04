@@ -1,0 +1,60 @@
+\begin{thebibliography}{}
+
+\bibitem[Hinton et~al., 2012]{hinton12speech}
+Hinton, G., Deng, L., Yu, D., Dahl, G., A.Mohamed, Jaitly, N., Senior, A.,
+  Vanhoucke, V., Nguyen, P., Sainath, T., and Kingsbury, B. (2012).
+\newblock Deep neural networks for acoustic modeling in speech recognition.
+\newblock {\em IEEE Signal Processing Magazine}, 29.
+
+\bibitem[Hyv\"{a}rinen et~al., 2001]{hyvarinen01tica}
+Hyv\"{a}rinen, A., Hoyer, P., and Inki, M. (2001).
+\newblock Topographic independent component analysis.
+\newblock {\em Neural Computation}, 13(7):1527--1558.
+
+\bibitem[Le et~al., 2011]{le11rica}
+Le, Q., Karpenko, A., Ngiam, J., and Ng, A. (2011).
+\newblock {ICA} with reconstruction cost for efficient overcomplete feature
+  learning.
+\newblock In {\em NIPS}.
+
+\bibitem[Le et~al., 2012]{le12highlevel}
+Le, Q.~V., Ranzato, M., Monga, R., Devin, M., Chen, K., Corrado, G.~S., Dean,
+  J., and Ng, A.~Y. (2012).
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock In {\em ICML}.
+
+\bibitem[LeCun et~al., 1998]{lecun98conv}
+LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proc}, 86(11):2278--2324.
+
+\bibitem[Mikolov et~al., 2010]{mikolov10rnnlm}
+Mikolov, T., Karafiat, S., Burget, L., \v{C}ernock\'{y}, J., and Khudanpur, S.
+  (2010).
+\newblock Recurrent neural network based language models.
+\newblock In {\em Proceedings of the 11th Annual Conference of the
+  International Speech Communication Association (INTERSPEECH 2010)}.
+
+\bibitem[Seide et~al., 2011]{seide11speech}
+Seide, F., Li, G., and Yu, D. (2011).
+\newblock Conversational speech transcription using context-dependent deep
+  neural networks.
+\newblock In {\em Proc. Interspeech 2011}, pages 437--440.
+
+\bibitem[Turian et~al., 2010]{turian10word}
+Turian, J., Ratinov, L.-A., and Bengio, Y. (2010).
+\newblock Word representations: A simple and general method for semi-supervised
+  learning.
+\newblock In {\em Proceedings of the 48th Annual Meeting of the Association for
+  Computational Linguistics}, pages 384--394, Uppsala, Sweden. Association for
+  Computational Linguistics.
+
+\bibitem[Zhila et~al., 2013]{zhila13}
+Zhila, A., Yih, W.-t., Meek, C., Zweig, G., and Mikolov, T. (2013).
+\newblock Combining heterogeneous models for measuring relational similarity.
+\newblock In {\em Proceedings of the 2013 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 1000--1009, Atlanta, Georgia. Association for
+  Computational Linguistics.
+
+\end{thebibliography}

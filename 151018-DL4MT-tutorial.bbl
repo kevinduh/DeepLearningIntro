@@ -1,0 +1,246 @@
+\begin{thebibliography}{}
+
+\bibitem[Bahdanau et~al., 2014]{bahdanau14translate}
+Bahdanau, D., Cho, K., and Bengio, Y. (2014).
+\newblock Neural machine translation by jointly learning to align and
+  translate.
+\newblock {\em CoRR}, abs/1409.0473.
+
+\bibitem[Bengio, 2009]{bengio09book}
+Bengio, Y. (2009).
+\newblock {\em Learning Deep Architectures for {AI}}, volume Foundations and
+  Trends in Machine Learning.
+\newblock NOW Publishers.
+
+\bibitem[Bengio et~al., 2006]{bengio06greedy}
+Bengio, Y., Lamblin, P., Popovici, D., and Larochelle, H. (2006).
+\newblock Greedy layer-wise training of deep networks.
+\newblock In {\em NIPS'06}, pages 153--160.
+
+\bibitem[Bergstra et~al., 2011]{bergstra11hyperparam}
+Bergstra, J., Bardenet, R., Bengio, Y., and K\'{e}gel, B. (2011).
+\newblock Algorithms for hyper-parameter optimization.
+\newblock In {\em Proc. Neural Information Processing Systems 24 (NIPS2011)}.
+
+\bibitem[Bishop, 1995]{bishop95book}
+Bishop, C. (1995).
+\newblock {\em Neural Networks for Pattern Recognition}.
+\newblock Oxford University Press.
+
+\bibitem[Bordes et~al., 2012]{bordes12joint}
+Bordes, A., Glorot, X., Weston, J., and Bengio, Y. (2012).
+\newblock Joint learning of words and meaning representations for open-text
+  semantic parsing.
+\newblock In {\em AISTATS}.
+
+\bibitem[Carreira-Perpinan and Hinton, 2005]{carreira05cd}
+Carreira-Perpinan, M.~A. and Hinton, G.~E. (2005).
+\newblock On contrastive divergence learning.
+\newblock In {\em AISTATS}.
+
+\bibitem[Caruana, 1997]{caruana97}
+Caruana, R. (1997).
+\newblock Multitask learning.
+\newblock {\em Machine Learning}, 28.
+
+\bibitem[Chen and Manning, 2014]{chen14depparse}
+Chen, D. and Manning, C. (2014).
+\newblock A fast and accurate dependency parser using neural networks.
+\newblock In {\em Proceedings of the 2014 Conference on Empirical Methods in
+  Natural Language Processing (EMNLP)}, pages 740--750, Doha, Qatar.
+  Association for Computational Linguistics.
+
+\bibitem[Cho et~al., 2014]{cho14phrase}
+Cho, K., van Merrienboer, B., Gulcehre, C., Bougares, F., Schwenk, H., and
+  Bengio, Y. (2014).
+\newblock Learning phrase representations using rnn encoder-decoder for
+  statistical machine translations.
+\newblock In {\em Conference on Empirical Methods in Natural Language
+  Processing (EMNLP) 2014}, number 1406.1078 in cs.CL.
+
+\bibitem[Coates et~al., 2013]{coates13cots}
+Coates, A., Huval, B., Wang, T., Wu, D.~J., Catanzaro, B., and Ng, A.~Y.
+  (2013).
+\newblock Deep learning with {COTS} {HPC} systems.
+\newblock In {\em Proceedings of the International Conference on Machine
+  Learning (ICML)}.
+
+\bibitem[Collobert et~al., 2011]{collobert11scratch}
+Collobert, R., Weston, J., Bottou, L., Karlen, M., Kavukcuoglu, K., and Kuksa,
+  P. (2011).
+\newblock Natural language processing (almost) from scratch.
+\newblock {\em Journal of Machine Learning Research}, 12:2493--2537.
+
+\bibitem[Dean et~al., 2012]{dean12distributed}
+Dean, J., Corrado, G.~S., Monga, R., Chen, K., Devin, M., Le, Q.~V., Mao,
+  M.~Z., Ranzato, M., Senior, A., Tucker, P., Yang, K., and Ng, A.~Y. (2012).
+\newblock Large scale distributed deep networks.
+\newblock In {\em Neural Information Processing Systems (NIPS)}.
+
+\bibitem[Duchi et~al., 2011]{duchi11adagrad}
+Duchi, J., Hazan, E., and Singer, Y. (2011).
+\newblock Adaptive subgradient methods for online learning and stochastic
+  optimization.
+\newblock {\em JMLR}, 12:2121--2159.
+
+\bibitem[Erhan et~al., 2010]{erhan10pretrain}
+Erhan, D., Bengio, Y., Courville, A., Manzagol, P., Vincent, P., and Bengio, S.
+  (2010).
+\newblock Why does unsupervised pre-training help deep learning?
+\newblock {\em Journal of Machine Learning Research}, 11:625--660.
+
+\bibitem[Erhan et~al., 2009]{erhan09difficulty}
+Erhan, D., Manzagol, P., Bengio, Y., Bengio, S., and Vincent, P. (2009).
+\newblock The difficulty of training deep architectures and the effect of
+  unsupervised pre-training.
+\newblock In {\em AISTATS}.
+
+\bibitem[Gers et~al., 2002]{gers02peephole}
+Gers, F.~A., Schraudolph, N.~N., and Schmidhuber, J. (2002).
+\newblock Learning precise timing with {LSTM} recurrent networks.
+\newblock {\em JMLR}.
+
+\bibitem[Graves et~al., 2014]{graves14turing}
+Graves, A., Wayne, G., and Danihelka, I. (2014).
+\newblock Neural turing machines.
+\newblock {\em CoRR}, abs/1410.5401.
+
+\bibitem[Hinton et~al., 2006]{hinton06dbn}
+Hinton, G., Osindero, S., and Teh, Y.-W. (2006).
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural Computation}, 18:1527--1554.
+
+\bibitem[Hinton et~al., 2012]{hinton12dropout}
+Hinton, G.~E., Srivastava, N., Krizhevsky, A., Sutskever, I., and
+  Salakhutdinov, R. (2012).
+\newblock Improving neural networks by preventing co-adaptation of feature
+  detectors.
+\newblock {\em CoRR}, abs/1207.0580.
+
+\bibitem[Kalchbrenner and Blunsom, 2013]{kalchbrenner13}
+Kalchbrenner, N. and Blunsom, P. (2013).
+\newblock Recurrent continuous translation models.
+\newblock In {\em Proceedings of the 2013 Conference on Empirical Methods in
+  Natural Language Processing}, pages 1700--1709, Seattle, Washington, USA.
+  Association for Computational Linguistics.
+
+\bibitem[Kingma et~al., 2014]{kingma14ssl}
+Kingma, D.~P., Mohamed, S., Jimenez~Rezende, D., and Welling, M. (2014).
+\newblock Semi-supervised learning with deep generative models.
+\newblock In Ghahramani, Z., Welling, M., Cortes, C., Lawrence, N., and
+  Weinberger, K., editors, {\em Advances in Neural Information Processing
+  Systems 27}, pages 3581--3589. Curran Associates, Inc.
+
+\bibitem[Kingma and Welling, 2014]{kingma14variational}
+Kingma, D.~P. and Welling, M. (2014).
+\newblock Auto-encoding variational bayes.
+\newblock In {\em Proceedings of the International Conference on Learning
+  Representations (ICLR)}.
+
+\bibitem[Krizhevsky et~al., 2012]{krizhevsky12imagenet}
+Krizhevsky, A., Sutskever, I., and Hinton, G. (2012).
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em NIPS}.
+
+\bibitem[LeCun et~al., 1998]{lecun98conv}
+LeCun, Y., Bottou, L., Bengio, Y., and Haffner, P. (1998).
+\newblock Gradient-based learning applied to document recognition.
+\newblock {\em Proc}, 86(11):2278--2324.
+
+\bibitem[Lee et~al., 2009]{lee09convolutional}
+Lee, H., Grosse, R., Ranganath, R., and Ng, A. (2009).
+\newblock Convolutional deep belief networks for scalable unsupervised learning
+  of hierarchical representations.
+\newblock In {\em ICML}.
+
+\bibitem[Liu et~al., 2015]{liu15multitask}
+Liu, X., Gao, J., He, X., Deng, L., Duh, K., and Wang, Y.-Y. (2015).
+\newblock Representation learning using multi-task deep neural networks for
+  semantic classification and information retrieval.
+\newblock In {\em Proceedings of the 2015 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 912--921, Denver, Colorado. Association for
+  Computational Linguistics.
+
+\bibitem[Martens, 2010]{martens10hessianfree}
+Martens, J. (2010).
+\newblock Deep learning via {H}essian-free optimization.
+\newblock In {\em Proceedings of the 27th International Conference on Machine
+  Learning (ICML)}.
+
+\bibitem[Martens and Sutskever, 2011]{martens11recurrent}
+Martens, J. and Sutskever, I. (2011).
+\newblock Learning recurrent neural networks with hessian-free optimization.
+\newblock In {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML)}.
+
+\bibitem[Mikolov et~al., 2010]{mikolov10rnnlm}
+Mikolov, T., Karafiat, S., Burget, L., \v{C}ernock\'{y}, J., and Khudanpur, S.
+  (2010).
+\newblock Recurrent neural network based language models.
+\newblock In {\em Proceedings of the 11th Annual Conference of the
+  International Speech Communication Association (INTERSPEECH 2010)}.
+
+\bibitem[Mnih et~al., 2013]{mnih13atari}
+Mnih, V., K., K., Silver, D., Graves, A., Antonoglou, I., Wierstra, D., and
+  Riedmiller, M. (2013).
+\newblock Playing atari with deep reinforcement learning.
+\newblock Technical Report Technical Report arXiv:1312.5602, Deepmind
+  Technologies.
+
+\bibitem[Moriya et~al., 2015]{moriya15automation}
+Moriya, T., Tanaka, T., Shinozaki, T., Watanabe, S., and Duh, K. (2015).
+\newblock Automation of system building for state-of-the-art large vocabulary
+  speech recognition using evolution strategy.
+\newblock In {\em Proceedings of ASRU}.
+
+\bibitem[Rush et~al., 2015]{rush15abstractive}
+Rush, A.~M., Chopra, S., and Weston, J. (2015).
+\newblock A neural attention model for abstractive sentence summarization.
+\newblock In {\em EMNLP}.
+
+\bibitem[Salakhutdinov and Hinton, 2009]{salakhutdinov09dbm}
+Salakhutdinov, R. and Hinton, G. (2009).
+\newblock Deep {B}oltzmann machines.
+\newblock In {\em Proceedings of the International Conference on Artificial
+  Intelligence and Statistics}, volume~5, pages 448--455.
+
+\bibitem[Schaul et~al., 2013]{schaul13learningrate}
+Schaul, T., Zhang, S., and LeCun, Y. (2013).
+\newblock No more pesky learning rates.
+\newblock In {\em Proc. International Conference on Machine learning
+  (ICML'13)}.
+
+\bibitem[Sutskever et~al., 2014]{sutskevar14sequence}
+Sutskever, I., Vinyals, O., and Le, Q. (2014).
+\newblock Sequence to sequence learning with neural networks.
+\newblock In {\em NIPS}.
+
+\bibitem[Weston et~al., 2014]{weston14memory}
+Weston, J., Chopra, S., and Bordes, A. (2014).
+\newblock Memory networks.
+\newblock {\em CoRR}, abs/1410.3916.
+
+\bibitem[Xu et~al., 2015]{xu15caption}
+Xu, K., Ba, J., Kiros, R., Cho, K., Courville, A., Salakhudinov, R., Zemel, R.,
+  and Bengio, Y. (2015).
+\newblock Show, attend and tell: Neural image caption generation with visual
+  attention.
+\newblock In {\em ICML}.
+
+\bibitem[Yu et~al., 2014]{yu14cntk}
+Yu, D., Eversole, A., Seltzer, M.~L., Yao, K., Guenter, B., Kuchaiev, O.,
+  Zhang, Y., Seide, F., Chen, G., Wang, H., Droppo, J., Agarwal, A., Basoglu,
+  C., Padmilac, M., Kamenev, A., Ivanov, V., Cyphers, S., Parthasarathi, H.,
+  Mitra, B., Huang, Z., Zweig, G., Rossbach, C., Currey, J., Gao, J., May, A.,
+  Peng, B., Stolcke, A., Slaney, M., and Huang, X. (2014).
+\newblock An introduction to computational networks and the computational
+  network toolkit.
+\newblock Technical Report MSR-TR-2014-112, Microsoft.
+
+\bibitem[Zeiler, 2012]{zeiler12adadelta}
+Zeiler, M.~D. (2012).
+\newblock {ADADELTA:} an adaptive learning rate method.
+\newblock {\em CoRR}, abs/1212.5701.
+
+\end{thebibliography}

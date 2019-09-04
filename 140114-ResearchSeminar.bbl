@@ -1,0 +1,31 @@
+\begin{thebibliography}{}
+
+\bibitem[Bengio, 2009]{bengio09book}
+Bengio, Y. (2009).
+\newblock {\em Learning Deep Architectures for {AI}}, volume Foundations and
+  Trends in Machine Learning.
+\newblock NOW Publishers.
+
+\bibitem[Bishop, 1995]{bishop95book}
+Bishop, C. (1995).
+\newblock {\em Neural Networks for Pattern Recognition}.
+\newblock Oxford University Press.
+
+\bibitem[Bishop, 2006]{bishopPRML}
+Bishop, C. (2006).
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer.
+
+\bibitem[Lee et~al., 2009]{lee09convolutional}
+Lee, H., Grosse, R., Ranganath, R., and Ng, A. (2009).
+\newblock Convolutional deep belief networks for scalable unsupervised learning
+  of hierarchical representations.
+\newblock In {\em ICML}.
+
+\bibitem[Schaul et~al., 2013]{schaul13learningrate}
+Schaul, T., Zhang, S., and LeCun, Y. (2013).
+\newblock No more pesky learning rates.
+\newblock In {\em Proc. International Conference on Machine learning
+  (ICML'13)}.
+
+\end{thebibliography}

@@ -1,0 +1,38 @@
+\begin{thebibliography}{}
+
+\bibitem[Bergstra et~al., 2011]{bergstra11hyperparam}
+Bergstra, J., Bardenet, R., Bengio, Y., and K\'{e}gel, B. (2011).
+\newblock Algorithms for hyper-parameter optimization.
+\newblock In {\em Proc. Neural Information Processing Systems 24 (NIPS2011)}.
+
+\bibitem[Dean et~al., 2012]{dean12distributed}
+Dean, J., Corrado, G.~S., Monga, R., Chen, K., Devin, M., Le, Q.~V., Mao,
+  M.~Z., Ranzato, M., Senior, A., Tucker, P., Yang, K., and Ng, A.~Y. (2012).
+\newblock Large scale distributed deep networks.
+\newblock In {\em Neural Information Processing Systems (NIPS)}.
+
+\bibitem[Hinton et~al., 2012]{hinton12dropout}
+Hinton, G.~E., Srivastava, N., Krizhevsky, A., Sutskever, I., and
+  Salakhutdinov, R. (2012).
+\newblock Improving neural networks by preventing co-adaptation of feature
+  detectors.
+\newblock {\em CoRR}, abs/1207.0580.
+
+\bibitem[Langford et~al., 2009]{langford09slow}
+Langford, J., Smola, A., and Zinkevich, M. (2009).
+\newblock Slow learners are fast.
+\newblock In {\em NIPS}.
+
+\bibitem[Martens, 2010]{martens10hessianfree}
+Martens, J. (2010).
+\newblock Deep learning via {H}essian-free optimization.
+\newblock In {\em Proceedings of the 27th International Conference on Machine
+  Learning (ICML)}.
+
+\bibitem[Martens and Sutskever, 2011]{martens11recurrent}
+Martens, J. and Sutskever, I. (2011).
+\newblock Learning recurrent neural networks with hessian-free optimization.
+\newblock In {\em Proceedings of the 28th International Conference on Machine
+  Learning (ICML)}.
+
+\end{thebibliography}

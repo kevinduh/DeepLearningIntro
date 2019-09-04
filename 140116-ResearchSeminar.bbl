@@ -1,0 +1,132 @@
+\begin{thebibliography}{}
+
+\bibitem[Bengio, 2009]{bengio09book}
+Bengio, Y. (2009).
+\newblock {\em Learning Deep Architectures for {AI}}, volume Foundations and
+  Trends in Machine Learning.
+\newblock NOW Publishers.
+
+\bibitem[Bengio et~al., 2006]{bengio06greedy}
+Bengio, Y., Lamblin, P., Popovici, D., and Larochelle, H. (2006).
+\newblock Greedy layer-wise training of deep networks.
+\newblock In {\em NIPS'06}, pages 153--160.
+
+\bibitem[Bishop, 2006]{bishopPRML}
+Bishop, C. (2006).
+\newblock {\em Pattern Recognition and Machine Learning}.
+\newblock Springer.
+
+\bibitem[Bourlard and Kamp, 1988]{bourlard88auto}
+Bourlard, H. and Kamp, Y. (1988).
+\newblock Auto-association by multilayer perceptrons and singular value
+  decomposition.
+\newblock {\em Biological Cybernetics}, 59:291--294.
+
+\bibitem[Carreira-Perpinan and Hinton, 2005]{carreira05cd}
+Carreira-Perpinan, M.~A. and Hinton, G.~E. (2005).
+\newblock On contrastive divergence learning.
+\newblock In {\em AISTATS}.
+
+\bibitem[Collobert and Bengio, 2004]{collobert04links}
+Collobert, R. and Bengio, S. (2004).
+\newblock Links between perceptrons, {MLPs} and {SVMs}.
+\newblock In {\em ICML}.
+
+\bibitem[Dahl et~al., 2012]{dahl12deep}
+Dahl, G., Yu, D., Deng, L., and Acero, A. (2012).
+\newblock Context-dependent pre-trained deep neural networks for large
+  vocabulary speech recognition.
+\newblock {\em IEEE Transactions on Audio, Speech, and Language Processing,
+  Special Issue on Deep Learning for Speech and Langauge Processing}.
+
+\bibitem[Erhan et~al., 2010]{erhan10pretrain}
+Erhan, D., Bengio, Y., Courville, A., Manzagol, P., Vincent, P., and Bengio, S.
+  (2010).
+\newblock Why does unsupervised pre-training help deep learning?
+\newblock {\em Journal of Machine Learning Research}, 11:625--660.
+
+\bibitem[Erhan et~al., 2009]{erhan09difficulty}
+Erhan, D., Manzagol, P., Bengio, Y., Bengio, S., and Vincent, P. (2009).
+\newblock The difficulty of training deep architectures and the effect of
+  unsupervised pre-training.
+\newblock In {\em AISTATS}.
+
+\bibitem[Hinton et~al., 2006]{hinton06dbn}
+Hinton, G., Osindero, S., and Teh, Y.-W. (2006).
+\newblock A fast learning algorithm for deep belief nets.
+\newblock {\em Neural Computation}, 18:1527--1554.
+
+\bibitem[Le et~al., 2012]{le12highlevel}
+Le, Q.~V., Ranzato, M., Monga, R., Devin, M., Chen, K., Corrado, G.~S., Dean,
+  J., and Ng, A.~Y. (2012).
+\newblock Building high-level features using large scale unsupervised learning.
+\newblock In {\em ICML}.
+
+\bibitem[Li et~al., 2005]{li05mlp}
+Li, X., Bilmes, J., and Malkin, J. (2005).
+\newblock Maximum margin learning and adaptation of {MLP} classifiers.
+\newblock In {\em Interspeech}.
+
+\bibitem[McCulloch and Pitts, 1943]{mcculloch43}
+McCulloch, W.~S. and Pitts, W.~H. (1943).
+\newblock A logical calculus of the ideas immanent in nervous activity.
+\newblock In {\em Bulletin of Mathematical Biophysics}, volume~5, pages
+  115--137.
+
+\bibitem[Minsky and Papert, 1969]{minsky69}
+Minsky, M. and Papert, S. (1969).
+\newblock {\em Perceptrons: an introduction to computational geometry}.
+\newblock MIT Press.
+
+\bibitem[Poon and Domingos, 2011]{poon11sumproduct}
+Poon, H. and Domingos, P. (2011).
+\newblock Sum-product networks.
+\newblock In {\em UAI}.
+
+\bibitem[Ranzato et~al., 2006]{ranzato06sparse}
+Ranzato, M., Boureau, Y.-L., and LeCun, Y. (2006).
+\newblock Sparse feature learning for deep belief networks.
+\newblock In {\em NIPS}.
+
+\bibitem[Rosenblatt, 1958]{rosenblatt58}
+Rosenblatt, F. (1958).
+\newblock The perceptron: A probabilistic model for information storage and
+  organization in the brain.
+\newblock {\em Psychological Review}, 65:386--408.
+
+\bibitem[Rumelhart et~al., 1986]{rumelhart86}
+Rumelhart, D.~E., Hinton, G.~E., and Williams, R.~J. (1986).
+\newblock Learning representations by back-propagating errors.
+\newblock {\em Nature}, 323:533--536.
+
+\bibitem[Sainath et~al., 2011]{sainath11deep}
+Sainath, T.~N., Kingsbury, B., Ramabhadran, B., Fousek, P., Novak, P., and
+  Mohamed, A. (2011).
+\newblock Making deep belief networks effective for large vocabulary continuous
+  speech recognition.
+\newblock In {\em ASRU}.
+
+\bibitem[Salakhutdinov and Hinton, 2007]{salakhutdinov07hash}
+Salakhutdinov, R. and Hinton, G. (2007).
+\newblock Semantic hashing.
+\newblock In {\em SIGIR}.
+
+\bibitem[Salakhutdinov and Hinton, 2009]{salakhutdinov09dbm}
+Salakhutdinov, R. and Hinton, G. (2009).
+\newblock Deep {B}oltzmann machines.
+\newblock In {\em Proceedings of the International Conference on Artificial
+  Intelligence and Statistics}, volume~5, pages 448--455.
+
+\bibitem[Vincent et~al., 2010]{vincent10denoise}
+Vincent, P., Larochelle, H., Lajoie, I., Bengio, Y., and Manzagol, P.-A.
+  (2010).
+\newblock Stacked denoising autoencoders: Learning useful representations in a
+  deep network with a local denoising criterion.
+\newblock {\em Journal of Machine Learning Research}, 11:3371--3408.
+
+\bibitem[Vinyals et~al., 2012]{vinyals12}
+Vinyals, O., Jia, Y., Deng, L., and Darrell, T. (2012).
+\newblock Learning with recursive perceptual representations.
+\newblock In {\em NIPS}.
+
+\end{thebibliography}
