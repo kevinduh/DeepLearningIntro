@@ -1,8 +1,9 @@
 ## Lecture Slides on Deep Learning
 
-Kevin Duh (kevinduh-at-cs.jhu.edu) 
+Kevin Duh <br/>
+(kevinduh-at-cs.jhu.edu) 
 
-These are various slides I created for teaching deep learning circa 2014-2017. Some material are outdated, some are not.
+These are various slides I created for teaching deep learning circa 2014-2017 at NAIST, JHU, and other places. Some material are outdated, some are not. This research field is improving at such a rapid pace that I no longer believe everything I said in the slides--so please use these slides with discretion.
 
 Feel free to use the slides in PDF format, or the corresponding latex source files. Compile them by, e.g.:
 
